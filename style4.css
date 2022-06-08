@@ -1,0 +1,16 @@
+ul{
+    background-color: white;
+    list-style-type: none;
+    margin-right: 20px;
+    float: right;
+}
+li{
+    float: left;
+}
+li a{
+    background-color: white;
+    margin-right: 30px;
+}
+.cont{
+    background-image: url('image/abc.jpg');
+}
